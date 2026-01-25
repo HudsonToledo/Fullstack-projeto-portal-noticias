@@ -8,6 +8,9 @@ section header {
     align-items: center;
     gap: 8px;
     span {
+      display: block;
+      background-size: contain;
+      background-repeat: no-repeat;
       background-image: url(../assets/icons/ArrowRight.svg);
       width: 16px;
       height: 16px;
